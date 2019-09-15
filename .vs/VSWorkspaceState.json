@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\business-calendar",
+    "\\src\\app\\business-page",
+    "\\src\\app\\business-page\\edit-business",
+    "\\src\\app\\business-page\\view-business",
+    "\\src\\app\\calendar",
+    "\\src\\app\\calendar\\create-event",
+    "\\src\\Models"
+  ],
+  "SelectedNode": "\\src\\app\\business-page\\view-business\\info",
+  "PreviewInSolutionExplorer": false
+}

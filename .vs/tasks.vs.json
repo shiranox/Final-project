@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-platforms",
+      "appliesTo": "platforms/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-",
+      "appliesTo": ".idea/",
+      "type": "launch"
+    }
+  ]
+}
